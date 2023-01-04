@@ -2,5 +2,13 @@
     display: inline-block;
     margin: 5px 0px;
     border: 1px solid black;
-    border-radius: 3%;
+    border-radius: 5px;
+    padding: 5px;
+    margin-left: 5px;
+}
+
+.backBtn:hover {
+    background-color: orange;
+    border-color: orange;
+    color: aliceblue;
 }
